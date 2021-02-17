@@ -119,4 +119,4 @@ Cross-site scripting (XSS) is a type of security vulnerability typically found i
 
 In this part, same if I've never developed in Js except a CLI in nodejs, I've understood that using `innerHTML/innerText`, including user input in the HTML parser, allowing the `__proto__` property to be called and interpreting encoded char is never a good idea. We have to prepare and process the user input before to put it into known Js function or HTML balise. It was a bit hard for me because I'm in Infrastructure, but with search and some good blogs, I've learnt a lot and I'm proud !  
 
-![HackTime!](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
+[HackTime!](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
